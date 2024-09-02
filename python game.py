@@ -7,7 +7,7 @@ pygame.init()
 # Screen dimensions
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption('Geometry Dash Clone')
+pygame.display.set_caption('Geometry Dash')
 
 # Colors
 WHITE = (0, 48, 143)                            
